@@ -25,7 +25,7 @@ This landing page provides information about io Hair Salon, including details ab
 ## Features
 
 - Overview of io Hair Salon and its traditions
-![Overview io Hair Salon](public/assets/about_iohairsalon.png)
+![Overview io Hair Salon](public/assets/About_iohairsalon.png)
 
 - Services offered with pricing details
 ![Services io Hair Salon](public/assets/services_iohairsalon.png)

@@ -1,6 +1,6 @@
 # io Hair Salon Landing Page
 
-![top page io Hair Salon](assets/TopPage_iohairsalon.png)
+![top page io Hair Salon](public/assets/TopPage_iohairsalon.png)
 
 This is a simple landing page for io Hair Salon, showcasing its services and contact information.
 
@@ -25,13 +25,13 @@ This landing page provides information about io Hair Salon, including details ab
 ## Features
 
 - Overview of io Hair Salon and its traditions
-![Overview io Hair Salon](assets/about_iohairsalon.png)
+![Overview io Hair Salon](public/assets/about_iohairsalon.png)
 
 - Services offered with pricing details
-![Services io Hair Salon](assets/services_iohairsalon.png)
+![Services io Hair Salon](public/assets/services_iohairsalon.png)
 
 - Contact information for appointments and inquiries
-![Contact us io Hair Salon](assets/ContactUs_iohairsalon.png)
+![Contact us io Hair Salon](public/assets/ContactUs_iohairsalon.png)
 
 ## Usage
 
@@ -39,7 +39,10 @@ Simply open the `index.html` file in your preferred web browser to view the land
 
 ## Installation
 
-There's no installation required. You can clone or download the repository and open the `index.html` file in your web browser to view the landing page.
+There's no installation required. 
+You can clone or download the repository and open the `index.html` file in your web browser to view the landing page.
+git clone https://github.com/orenzylber/IO_Hair_Salon_Landing_Page_onFirebase.git
+Also, you can connect to https://io-hair-salon-landing-page.web.app wich was loaded to Firebase
 
 ## Contributing
 

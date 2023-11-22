@@ -35,14 +35,14 @@ This landing page provides information about io Hair Salon, including details ab
 
 ## Usage
 
-Simply open the `index.html` file in your preferred web browser to view the landing page. Navigate through the different sections using the navbar links.
+Simply, connect to https://io-hair-salon-landing-page.web.app wich was loaded to Firebase, or open the `index.html` file in your preferred web browser to view the landing page. Navigate through the different sections using the navbar links.
 
 ## Installation
 
 There's no installation required. 
-You can clone or download the repository and open the `index.html` file in your web browser to view the landing page.
+- You can clone or download the repository and open the `index.html` file in your web browser to view the landing page.
 git clone https://github.com/orenzylber/IO_Hair_Salon_Landing_Page_onFirebase.git
-Also, you can connect to https://io-hair-salon-landing-page.web.app wich was loaded to Firebase
+- Also, you can connect to https://io-hair-salon-landing-page.web.app that was loaded to Firebase
 
 ## Contributing
 
